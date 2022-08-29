@@ -1,0 +1,23 @@
+{
+  "name": "api-keller-plevin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joel-OPOP/api-keller-plevin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joel-OPOP/api-keller-plevin/issues"
+  },
+  "homepage": "https://github.com/Joel-OPOP/api-keller-plevin#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
